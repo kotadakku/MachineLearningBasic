@@ -1,0 +1,11 @@
+ID,Tuổi,Hôn nhân,BDS,Thu nhập,Rủi ro tài chính
+1,Trẻ,Độc thân,Nhà thuê,Thấp,Không
+2,Trung bình,Đã kết hôn,Nhà sở hữu,Cao,Không 
+3,Trẻ,Đã kết hôn,Nhà thuê,Thấp,Có
+4,Trung bình,Độc thân,Nhà thuê,Thấp,Có
+5,Trung bình,Đã kết hôn,Nhà sở hữu,Thấp,Có 
+6,Trẻ,Đã kết hôn,Nhà sở hữu,Thấp,Có
+7,Trẻ,Độc thân,Nhà thuê,Trung bình,Không 
+8,Trung bình,Đã kết hôn,Nhà sở hữu,Cao,Không 
+9,Cao,Độc thân,Nhà sở hữu,Trung bình,Có 
+10,Cao,Đã kết hôn,Nhà sở hữu,Trung bình,Không 
